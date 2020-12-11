@@ -13,13 +13,13 @@ Currently, I am applying my love of deep learning to my hobbies and interests to
 - ⚡ Fun fact: ... I am an INTJ 8w7
 -->
 
-- My Skills
--   Python
--     General Skills
--       NLP with Spacy, OOP, Flask
--     Data Preprocessing
--       Numpy, Pandas, ndjson
--     Data Visualization
--       Matplotlib, Seaborn, Plotly
--     Machine Learning/Deep Learning
--       Scikit-Learn, Keras, Tensorflow, Pytorch, LSTM, CNN, VAE
+My Skills
+  - Python
+   - General Skills
+     - NLP with Spacy, OOP, Flask
+   - Data Preprocessing
+     - Numpy, Pandas, ndjson
+   - Data Visualization
+     - Matplotlib, Seaborn, Plotly
+   - Machine Learning/Deep Learning
+     - Scikit-Learn, Keras, Tensorflow, Pytorch, LSTM, CNN, VAE
