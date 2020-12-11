@@ -16,11 +16,11 @@ Currently, I am applying my love of deep learning to my hobbies and interests to
 My Skills
   - Python
      - General Skills
-       - NLP with Spacy, OOP, Flask
+       - NLP with Spacy, OOP, Flask, Graph Traversal
     - Data Preprocessing
        - Numpy, Pandas, ndjson
     - Data Visualization
       - Matplotlib, Seaborn, Plotly
     - Machine Learning/Deep Learning
-      - Scikit-Learn, Keras, Tensorflow, Pytorch, LSTM, CNN, VAE
+      - Scikit-Learn, Keras, Tensorflow, Pytorch, LSTM, CNN, VAE, MLP, Random Forest
   - SQL
